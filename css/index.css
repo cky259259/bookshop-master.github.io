@@ -471,6 +471,7 @@ footer{
 	flex-direction: column;
 	justify-content: center;
 	align-content: center;
+	background-color: rgba(16, 15, 15, 0.756);
 }
 
 footer a{
@@ -478,5 +479,5 @@ footer a{
 	font-size: 15px;
 	/*margin-left: 30%;*/
 	text-decoration: none;
-	color: gray;
+	color: rgba(255, 253, 253, 0.995);
 }
